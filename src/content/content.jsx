@@ -59,8 +59,8 @@ export const infos = {
   domain: "eneaspimentel.com.br", // Sem "www"
   phone: {
     ddd: "92",
-    firstPart: "98422", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "2503", // Apenas os 4 últimos números
+    firstPart: "99426", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "8484", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
