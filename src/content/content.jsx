@@ -242,7 +242,7 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Direito Previdenciária",
+        title: "Direito Previdenciário",
         subtitle: "Aposentadorias, pensões e benefícios do INSS.",
         description: (
           <div>
